@@ -1,8 +1,8 @@
-## Hi there
+# Alroy Vishanth Dsouza
+### Computer Science & Data Science Engineering Student
 
 ## Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alroy-vishanth-dsouza)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alroyvishanth@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alroy-vishanth-dsouza)      [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alroyvishanth@gmail.com)
 
 # Tech Stack
 
